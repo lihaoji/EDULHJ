@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EDU.iml" filepath="$PROJECT_DIR$/.idea/EDU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice-oss/commonservice-oss.iml" filepath="$PROJECT_DIR$/commonservice-oss/commonservice-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu_common/edu_common.iml" filepath="$PROJECT_DIR$/edu_common/edu_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-edu/microservice-edu.iml" filepath="$PROJECT_DIR$/microservice-edu/microservice-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+    </modules>
+  </component>
+</project>
